@@ -1,0 +1,27 @@
+#yams-pic {
+    height: 5px;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+h2 {
+    font-family: Helvetica;
+}
+
+h3 {
+    font-family: serif;
+    background-color: rgb(244, 244, 203);
+    width: 95px;
+}
+
+ul {
+    background-color: tan;
+    width: 95px;
+}
+
+ol {
+    background-color: tan;
+    width: 250px;
+}
